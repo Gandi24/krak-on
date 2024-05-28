@@ -541,6 +541,20 @@ button:hover:after,
   background: #ddd;
   opacity: .3;
 }
+.lgx-btn-disabled {
+  background: #fff !important;
+  color: #7e24e6 !important;
+  pointer-events: none;
+}
+.lgx-btn-disabled:hover {
+  background: #fff !important;
+  color: #7e24e6 !important;
+}
+.lgx-btn-disabled:after {
+  background: url(../img/dots4.png) 0 0 repeat;
+  background: #ddd;
+  opacity: .3;
+}
 .lgx-btn-white:hover {
   color: #7e24e6;
 }
@@ -8350,7 +8364,7 @@ lgx-zoomInUp
 /* 2.5 Speakers SECTION
 ---------------------------------------------------------------------*/
 .lgx-speakers2 {
-  background: url('http://placehold.it/1920x1000') bottom left no-repeat fixed;
+  background: url('/assets/img/creators.jpg') bottom left no-repeat fixed;
   -webkit-background-size: auto auto, cover;
   -o-background-size: auto auto, cover;
   -moz-background-size: auto auto, cover;
@@ -9820,7 +9834,7 @@ lgx-zoomInUp
   background: #1b273d;
 }
 .lgx-registration4 {
-  background: url('http://placehold.it/1920x1000') bottom center no-repeat fixed;
+  background: url('/assets/img/tickets.jpg') bottom center no-repeat fixed;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
