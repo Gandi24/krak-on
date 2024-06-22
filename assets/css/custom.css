@@ -5,3 +5,35 @@
 #lgx-countdown span {
     background: transparent !important;
 }
+
+.top-logo {
+    width: 200px;
+    padding-top: 18px;
+}
+@media (min-width: 1200px) {
+    .top-logo {
+        padding-top: 22px;
+    }
+}
+
+.lgx-single-registration {
+    transition-duration: 0s;
+}
+
+.lgx-single-registration-inner .icon {
+    filter: invert(1);
+}
+
+.lgx-single-registration-inner .icon img {
+    width: 80px;
+}
+
+.sib-form-block {
+    display: flex;
+}
+
+.lgx-footer-single img {
+    max-width: 130px;
+    display: block;
+    margin: auto;
+}
