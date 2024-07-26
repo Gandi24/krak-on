@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             </figure>
                         </div>
                         <div class="col-lg-9">
-                            <h4>${creator.name}</h4>
+                            <h2>${creator.name}</h2>
                             <p>${creator.bio}</p>
                         </div>
                     </div>
