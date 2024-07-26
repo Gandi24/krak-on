@@ -28,7 +28,7 @@
     "length": "~4 godziny",
     "title": "Cena prawdy. Próba Cierpliwości.",
     "author": "Mikołaj IRON Adamczyk",
-    "slot": "sunday1",
+    "slot": "unknown",
     "description": "Podczas obchodów 20 rocznicy rządów Cesarza doszło do ataku, który pozbawił życia większość najważniejszych osób w Rokuganie. Odpowiedzialnych za zamach obwołano Klan Pająka. Ciężko ranny Cesarz rozkazał, aby klany zaatakowały ich ziemie, przesłuchali Daimyo i sprowadzili go bezpiecznie do stolicy, aby tam udowodnić mu winę i osądzić.<br/> Po wielotygodniowej wyczerpującej kampanii zamek wroga został zdobyty. Wysłannicy klanów przybyli poznać historię stojącą za zdradą — nie wiedzą jednak, że ich serca zostaną wystawione na wymagającą próbę."
   },
   {
@@ -38,5 +38,21 @@
     "author": "Maciej Bugalski",
     "slot": "saturday2",
     "description": "Larp opowiada historię grupy młodych studentów, którzy w obliczu okupacji i narastającego terroru postanawiają podjąć walkę zbrojną w celu uwolnienia ojczyzny. Niestety nie wszystko idzie zgodnie z planem i gracze będą musieli odnaleźć się w różnych, czasem ekstremalnych sytuacjach. Na larpie może pojawić się przemoc psychiczna i teatralnie odgrywana przemoc fizyczna."
+  },
+  {
+    "key": "seishiNoSakai",
+    "length": "~5 godzin",
+    "title": "Seishi no sakai",
+    "author": "Ksenia Golińska oraz Ignacy Kitlowski",
+    "slot": "saturday2",
+    "description": "<strong>„Miasta odbudowane na cmentarzach, w których potem ludzie żyją tak jakby umarli”.</strong><br>\n        ~Olga Tokarczuk<br><br>\n        <strong>\"Seishi no sakai\"</strong> jest oniryczną historią osadzoną w konwencji realizmu magicznego. Gracze przeniosą się do mitycznej Japonii, w której historie z legend i wierzeń stają się realnością, a skalani krwią i śmiercią ludzie są wyganiani ze społeczeństwa, by żyć na jego marginesie. Rzeczywistość nie jest tak prostolinijna i oczywista, gdyż czas i miejsca przeplatają się ze sobą na przestrzeni wieków, przez co trudno odróżnić sen od jawy.<br><br>\n        Larp przeznaczony jest dla graczy, którzy lubią:<br>\n        - gry ze sztywną strukturą (scenariusz podzielony jest na akty);<br>\n        - klimatyczne karty postaci, w których jest dużo miejsca na własne dopowiedzenia;<br>\n        - wspólne opowiadanie historii.<br><br>\n        Larp NIE jest przeznaczony dla graczy, którzy:<br>\n        - oczekują jasno określonych celów postaci;<br>\n        - chcą wygrać grę;<br>\n        - oczekują wielowątkowej historii pełnej zwrotów akcji."
+  },
+  {
+    "key": "oMnieSieNieMartw",
+    "length": "~3 godzinu",
+    "title": "O mnie się nie martw",
+    "author": "Inga (Binga) Brodala oraz Olga Jędrzejczyk",
+    "slot": "saturday1",
+    "description": "Jest 24 sierpnia 1967 roku, 1:13 rano. Od pół godziny Gaja Andrzejewicz leży prowizorycznie zakopana pod lasem. Co gorsza - nie znalazła się tam przez przypadek.<br>\n        Każde z jej znajomych ze studiów, z którymi imprezowała w wynajętym domku nad morzem - chłopak, najlepsza przyjaciółka, brat, przyjaciel rodziny, rywalka - miało swoje powody, by chcieć jej śmierci i (prawie) wszyscy mieli w niej swój udział.<br>\n        Pytanie brzmi - co zrobią dalej?<br><br>\n        <strong>\"O mnie się nie martw\"</strong> to osadzony w realiach PRL larp w konwencji dark academia opowiadający o zbrodni, winie i niebezpieczeństwach randkowania wewnątrz friendgroupki.<br><br>\n        Uwaga: gra porusza tematy morderstwa, poczucia winy, dyskryminacji i toksycznych relacji. Nie jest zalecana dla graczy, którzy nie chcą grać niemoralnych postaci i/lub wątków romantycznych.\n"
   }
 ]
