@@ -80,7 +80,17 @@ document.addEventListener("DOMContentLoaded", function() {
         .then(data => {
             const creators = document.getElementById('creators');
 
-            data.forEach(creator => {
+            data.forEach((creator, index) => {
+                const rowId = Math.floor(index / 4);
+                if (index % 4 === 0) {
+                    const creatorRow = document.createElement('div');
+                    creatorRow.classList.add(`row`);
+                    creatorRow.classList.add(`row-${rowId}`);
+                    creators.appendChild(creatorRow);
+                }
+
+                const row = creators.querySelector(`.row-${rowId}`);
+
                 const creatorDiv = document.createElement('div');
                 creatorDiv.classList.add('col-xs-12');
                 creatorDiv.classList.add('col-sm-6');
@@ -102,7 +112,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     </div>
                 `;
 
-                creators.appendChild(creatorDiv);
+                row.appendChild(creatorDiv);
 
             });
         })
