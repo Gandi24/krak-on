@@ -32,14 +32,6 @@
     "description": "Podczas obchodów 20 rocznicy rządów Cesarza doszło do ataku, który pozbawił życia większość najważniejszych osób w Rokuganie. Odpowiedzialnych za zamach obwołano Klan Pająka. Ciężko ranny Cesarz rozkazał, aby klany zaatakowały ich ziemie, przesłuchali Daimyo i sprowadzili go bezpiecznie do stolicy, aby tam udowodnić mu winę i osądzić.<br/> Po wielotygodniowej wyczerpującej kampanii zamek wroga został zdobyty. Wysłannicy klanów przybyli poznać historię stojącą za zdradą — nie wiedzą jednak, że ich serca zostaną wystawione na wymagającą próbę."
   },
   {
-    "key": "przesluchanieWAreszcieSipo",
-    "length": "~4 godziny",
-    "title": "Przesłuchanie w areszcie Sipo",
-    "author": "Maciej Bugalski",
-    "slot": "saturday2",
-    "description": "Larp opowiada historię grupy młodych studentów, którzy w obliczu okupacji i narastającego terroru postanawiają podjąć walkę zbrojną w celu uwolnienia ojczyzny. Niestety nie wszystko idzie zgodnie z planem i gracze będą musieli odnaleźć się w różnych, czasem ekstremalnych sytuacjach. Na larpie może pojawić się przemoc psychiczna i teatralnie odgrywana przemoc fizyczna."
-  },
-  {
     "key": "seishiNoSakai",
     "length": "~5 godzin",
     "title": "Seishi no sakai",
@@ -49,10 +41,82 @@
   },
   {
     "key": "oMnieSieNieMartw",
-    "length": "~3 godzinu",
+    "length": "~3 godziny",
     "title": "O mnie się nie martw",
     "author": "Inga (Binga) Brodala oraz Olga Jędrzejczyk",
     "slot": "saturday1",
     "description": "Jest 24 sierpnia 1967 roku, 1:13 rano. Od pół godziny Gaja Andrzejewicz leży prowizorycznie zakopana pod lasem. Co gorsza - nie znalazła się tam przez przypadek.<br>\n        Każde z jej znajomych ze studiów, z którymi imprezowała w wynajętym domku nad morzem - chłopak, najlepsza przyjaciółka, brat, przyjaciel rodziny, rywalka - miało swoje powody, by chcieć jej śmierci i (prawie) wszyscy mieli w niej swój udział.<br>\n        Pytanie brzmi - co zrobią dalej?<br><br>\n        <strong>\"O mnie się nie martw\"</strong> to osadzony w realiach PRL larp w konwencji dark academia opowiadający o zbrodni, winie i niebezpieczeństwach randkowania wewnątrz friendgroupki.<br><br>\n        Uwaga: gra porusza tematy morderstwa, poczucia winy, dyskryminacji i toksycznych relacji. Nie jest zalecana dla graczy, którzy nie chcą grać niemoralnych postaci i/lub wątków romantycznych.\n"
+  },
+  {
+    "key": "kryzysWSlonecznejDolinie",
+    "length": "~4 godziny",
+    "title": "Kryzys w Słonecznej Dolinie",
+    "author": "Sylwia Kitsu Grzędzińska",
+    "slot": "saturday1",
+    "description": "Burmistrz Miasta Fresno pragnie poinformować o zbliżającej się nadzwyczajnej sesji rady miasta w sprawie sytuacji kryzysowej związanej z przedłużającą się suszą.<br/>\nNa zaproszenie burmistrza w sesji będzie uczestniczył/a dr Sydney Pollard z Uniwersytetu Kalifornijskiego, która/y w ostatnim czasie przeprowadził/a szereg badań geologicznych mających na celu ustalenie wielkości zasobów wód podziemnych w okolicy miasta.<br/>\nNa obrady proszeni są o stawienie się wszyscy członkowie rady, w tym: prezes banku pełniący funkcję sekretarza, właściciel sklepu wielobranżowego, właściciel hotelu Sunny Valley oraz okoliczni właściciele ziemscy.<br/>\nNad przebiegiem obrad będzie czuwał szeryf Mackenzie.<br/>\nPodczas sesji planowana jest przerwa obiadowa.<br/>\nKażdy z obecnych mieszkańców będzie miał możliwość wyrażenia swojego zdania.<br/>\nUprasza się o wyrażanie swoich poglądów w sposób kulturalny i z poszanowaniem wszystkich obecnych na spotkaniu.<br/>\nNieprzestrzeganie się do regulaminu może skutkować nałożeniem kar pieniężnych, a nawet wykluczeniem z dalszych obrad.<br/><br/>\n\nMałe miasteczko położone w dolinie rzeki San Joaquin w Kaliforni zmaga się z największą suszą jaka w przeciągu ostatnich 50 lat została odnotowana dla tych terenów.<br/>\nMinęły już ponad 4 miesiące od ostatniego deszczu.<br/>\nNajdotkliwsze straty odczuwają okoliczne winnice oraz plantacje cytrusów.<br/>\nZ tego powodu zostało zwołane zebranie rady miasta w skład której wchodzą jego najznamienitsi mieszkańcy.<br/>\nRatunkiem dla rolników byłoby wydanie zgody na budowę szeregu studni pobierających wodę z głębszych warstw wodonośnych.<br/>\nDecyzja nie jest jednak łatwa, gdyż zasoby tych wód są nieodnawialne i mogą szybko ulec wyczerpaniu.<br/>\nNa zebraniu ma zostać podjęta decyzja czy będą dokonywane głębsze odwierty oraz kto dostanie na nie pozwolenie.<br/>\nPodczas obrad planowane są dwie przerwy na posiłki (lunch i obiad), podczas których będzie czas na bardziej prywatne rozmowy.<br/><br/>\n\nLarp osadzony jest w czasach prohibicji w Stanach Zjednoczonych (lata 30. XX w.).<br/>\nGra porusza takie trudne tematy jak: rozwój nielegalnej produkcji i dystrybucji alkoholu, rosnące podziały społeczne pomiędzy właścicielami ziemskimi, a mieszkańcami miasteczka, w tym walkę o dostęp do zasobów naturalnych, jak również początki tworzenia się służb specjalnych takich jak FBI.<br/>\nGra nie wymaga od graczy znajomości kontekstu historycznego.<br/>\nWszystkie potrzebne informacje zostaną zawarte w kartach postaci oraz, w przypadku wybranych postaci, dodatkowych materiałach."
+  },
+  {
+    "key": "laBelleConfusione",
+    "length": "~3 godziny",
+    "title": "La Belle Confusione",
+    "author": "Mikołaj Wicher",
+    "slot": "saturday2",
+    "description": "Larp to kolejna wielka rzecz! A to my robimy najlepsze larpy! Jesteśmy młodzi i głodni. Nikt nigdy nie był tam, gdzie jesteśmy teraz i wydaje się, że nie ma ograniczeń. O czym będzie następna gra? Cóż, na razie to tajemnica, więc wystarczy poczekać na oficjalny komunikat. Lub nie, czekaj, po prostu zarejestruj się w ciemno!"
+  },
+  {
+    "key": "nieZadzierajZImperatywem",
+    "length": "~4 godziny",
+    "title": "Nie zadzieraj z imperatywem!",
+    "author": "Grzegorz \"Fenek\" Bukowiec",
+    "slot": "sunday1",
+    "description": "Z imperatywem narracyjnym nie ma żartów!<br/> \nGdy dwanaście* na pozór przypadkowych osób zbiera się pod jednym dachem, to po prostu nie może wyniknąć z tego nic dobrego.<br/>\nNie czytałeś w życiu żadnej książki?<br/><br/>\n\nMagowie z miasta Ankh-Morpork organizują na Niewidocznym Uniwersytecie skromny bankiet towarzyszący krótkiemu wykładowi jednego ze studentów, laureata konkursu na najlepszą pracę badawczą.<br/> \nNa liczne zaproszenia wysłane do okolicznych stowarzyszeń, gildii oraz możnych początkowo odpowiedziało niewielu, ale niespodziewanie gruchnęła sensacyjna wieść: pojawi się również sam Lord Vetinari, władca Ankh-Morpork!<br/><br/>\n\n*Chyba że ktoś nie przyjdzie.<br/><br/>\n\n- - - <br/><br/>\n\n\"Nie zadzieraj z imperatywem!\" to dość lekka, inspirowana klasycznymi kryminałami A. Christie kryminalno-detektywistyczna opowieść dla 10-12 osób (6M, 3Ż, 3U), która jest rozgrywana w realiach Świata Dysku z książek T. Pratchetta.<br/>\nZnajomość tego świata, jakkolwiek mile widziana, nie jest absolutnie wymagana – wszystkie postacie poza jedną są stworzone specjalnie na potrzeby larpa.<br/> \nW grze mogą przewinąć się takie motywy jak morderstwo, uzależnienie, manipulacja oraz religia."
+  },
+  {
+    "key": "pierwszyKontakt",
+    "length": "~4 godziny",
+    "title": "Pierwszy Kontakt",
+    "author": "Bartosz Król",
+    "slot": "laury",
+    "description": "Światem ogarnął niepokój kiedy astronauci z Międzynarodowej Stacji Kosmicznej potwierdzili pojawienie się na orbicie nieznanego obiektu pozaziemskiego pochodzenia. Wśród tabliczek “nadchodzi koniec” w czasie ogólnej paniki zebrano grupę naukowców z misją zbadania kosmicznego artefaktu. Od tego czy uda im się nawiązać z nim kontakt zależy przyszłość ludzkości - nie wiedzą jednak, że w czasie kiedy spoglądać będą w ciemność pomiędzy gwiazdami odkryją też prawdę o sobie samych. Gra inspirowana filmami takimi jak Arrival, Interstellar oraz Efekt Motyla."
+  },
+  {
+    "key": "wWezowejSkorze",
+    "length": "~5 godzin",
+    "title": "W wężowej skórze",
+    "author": "Karolina Wysocka, Sabina Stankiewicz",
+    "slot": "saturday2",
+    "description": "Sprzeciw i uległość - od wieków konkurowały ze sobą, by rozpętać wojnę, rozgonić niepokornych wrogów, wpędzając ich w odmęty zapomnienia.<br/>\nCzy dwoje młodych ludzi ugnie się przed pradawnymi mocami, wylewając kielich rozkoszy, skłaniając się ku nęcącej propozycji?<br/>\nCzy pozostaną głusi na ich prośby i postarają się odnaleźć siebie?<br/><br/>\n\nLarp opowiada znaną z Biblii historię Ewy oraz Adama, którzy krocząc przed życie, napotykać będą na różne bibilijne oraz ludzkie postacie.<br/>\nJak potoczą się koleje ich życia?<br/>\nCzy \"bóstwa\" pokłócą się o władanie nad ludzką żądzą, czy ulegną, oddając część żądań i działać będą wspólnie dla swych korzyści?"
+  },
+  {
+    "key": "wszystkiePieniadzeSzanghaju",
+    "length": "~4 godziny",
+    "title": "Wszystkie pieniądze Szanghaju",
+    "author": "Andrzej Pierzchała, Marta Chojnowska",
+    "slot": "saturday2",
+    "description": "Jest lipiec 1937 roku, Szanghaj.<br/>\nDaleko na północy trwają walki między oddziałami Kuomintagu, a armią japońską.<br/>\nArmia rządu Narodowego chwieje się, tracąc kolejne terytoria.<br/>\nTymczasem na terenie koncesji francuskiej w Szanghaju na pozór trwa normalne życie.<br/>\nJest to popularna dzielnica mieszkaniowa i kupiecka, ostoja cudzoziemców w tej części Chin, oraz zatłoczone schronienie dla uciekających z obszarów wojny.<br/>\nFrancuzi, żydzi, Biali Rosjanie… Jest to tętniący życiem miejski tygiel.<br/>\nDo niego zmierza grupa uciekinierów, ściganych przez los i zbierającą się nad światem burzę.<br/>\nJest to nowela larpowa w trzech aktach, inspirowana klasyką filmu noir oraz operą *Ślepy Tor* Antoniego Libery."
+  },
+  {
+    "key": "czyAniolowiePijaWhisky",
+    "length": "~4 godziny",
+    "title": "Czy Aniołowie Piją Whisky?",
+    "author": "Michał Poręcki",
+    "slot": "saturday1",
+    "description": "Nie sądźcie, a nie będziecie sądzeni; nie potępiajcie, a nie będziecie potępieni; przebaczajcie, a będzie wam przebaczone.<br/>\nŁukasza 6:37<br/><br/>\n\nO Larpie:<br/>\nCzy aniołowie piją whisky to chamber larp o trudnych relacjach, ludzkich słabościach i ciężkich decyzjach.<br/>\nNasi bohaterowie to zwyczajne osoby mieszkające na co dzień w Warszawie, żyjące swoim całkiem normalnym życiem i starające się wiązać koniec z końcem.<br/>\nJest to larp o skrywanych pragnieniach, ciężkich decyzjach i konsekwencjach jakie niesie za sobą każde działanie.<br/>\nAkcja dzieje się w czasach współczesnych w Warszawie.<br/>\nNasi bohaterowie z różnych przyczyn zawędrowali do soleckiego baru „Alterpose” i tam, zaskoczeni przez śnieżycę, muszą doczekać poranka.<br/>\nGracze wcielą się w matki, córki, żony, mężów, biznesmenów oraz inne postacie jakie normalnie funkcjonują w naszym świecie.<br/>\nNa larpie nie ma DOBRYCH POSTACI.<br/>\nKażda bohaterka i bohater naszego larpa ma swoje problemy i demony z jakimi musi się zmagać.<br/><br/>\n\nCel gry:<br/>\nGramy dla dramy – czyli wiele hałasu o nic i wiele o wszystko!<br/><br/>\n\nDla kogo jest ten larp?<br/>\nDla osób, które nie boją się wyzwań i potrafią pochylić się nad problemami z jakimi muszą mierzyć się współcześni ludzie.<br/>\nDla tych co nie boją się trudnych tematów i ciężkich decyzji.<br/>\nDla tych co lubią tajemnicze barowe klimaty.<br/>\nDla tych co nie boją się grać Play to Lose.<br/>\nDla tych co chcą przeżyć refleksję nad działaniami i życiem swojej postaci.<br/><br/>\n\nDla kogo nie jest ten larp?<br/>\nDla osób czujących się niekomfortowo w scenach kłótni.<br/>\nDla osób grających stricte Play to Win.<br/>\nDla osób obawiających się publicznego poruszania tematów takich jak: przemoc, zdrada, samotne rodzicielstwo, alkoholizm, narkotyki."
+  },
+  {
+    "key": "trumna",
+    "length": "~4 godziny",
+    "title": "Trumna",
+    "author": "Adrianna Prasał, Aleksandra Klech",
+    "slot": "saturday1",
+    "description": "Jest rok 2100. Pięćdziesiąt lat temu wybuchła wojna, trwająca siedem lat, która spustoszyła cały świat i wciąż da się odczuć jej piętno. Panuje totalitaryzm. Zapasy jedzenia i wody są na wyczerpaniu. Z tego względu najwyższe organy w państwie zdecydowały, że muszą kontrolować populację. Podobno w życie ma wejść nowe prawo, które ma w tym pomóc. Cała historia toczy się jedynie w domu pewnej rodziny. Larp oparty głównie na relacjach międzyludzkich."
+  },
+  {
+    "key": "target",
+    "length": "~5 godzin",
+    "title": "TARGET",
+    "author": "Maciek “Mec” Mecmajer & Dawid “Dejv” Dąbal",
+    "slot": "sunday1",
+    "description": "Chcemy opowiedzieć historię ludzi, którzy nękani problemami finansowymi i/lub poczuciem życiowej stagnacji, szukają ratunku poprzez zatrudnienie w nowo otwartym oddziale amerykańskiej firmy inwestycyjnej “Sejf Invest”.  Niektórzy upatrywać będą w tym ostatniej szansy na “spektakularny” sukces, inni motywowani będą wyłącznie perspektywami niezwykle wysokich, opartych na prowizji zarobków. W trakcie larpa gracze będą mogli odnaleźć odpowiedzi na wiele pytań: Czy taka praca faktycznie okaże się spełnieniem marzeń? Czy wyścig szczurów w korporacji jest nieunikniony? I czy ekscentryczny właściciel firmy “Sejf Invest” na pewno podjął słuszną decyzję w oferowaniu pracy osobom spoza sektora finansów?\n"
   }
 ]

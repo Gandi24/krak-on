@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
             const saturday1 = document.getElementById('scheduleSaturday1');
             const saturday2 = document.getElementById('scheduleSaturday2');
             const sunday1 = document.getElementById('scheduleSunday1');
+            const laury = document.getElementById('scheduleLaury');
 
             data.forEach(larp => {
                 const larpDiv = document.createElement('div');
@@ -61,6 +62,9 @@ document.addEventListener("DOMContentLoaded", function() {
                         break;
                     case 'sunday1':
                         sunday1.appendChild(larpDiv);
+                        break;
+                    case 'laury':
+                        laury.appendChild(larpDiv);
                         break;
                     default:
                         console.error(`Invalid day: ${larp.day}`);
