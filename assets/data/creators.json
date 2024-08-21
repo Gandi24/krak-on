@@ -41,7 +41,7 @@
   },
   {
     "filename": "Inga%20Brodala.png",
-    "name": "Inga (Binga) Brodala",
+    "name": "Inga \"Binga\" Brodala",
     "larp": "O mnie się nie martw"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "filename": "Sylwia%20Grzędzińska.png",
-    "name": "Sylwia Kitsu Grzędzińska",
+    "name": "Sylwia \"Kitsu\" Grzędzińska",
     "larp": "Kryzys w Słonecznej Dolinie"
   },
   {
@@ -88,5 +88,50 @@
     "filename": "Adrianna%20Prasał.png",
     "name": "Adrianna Prasał",
     "larp": "Trumna"
+  },
+  {
+    "filename": "Patrycja%20Wiazowska.png",
+    "name": "Patrycja Wiazowska",
+    "larp": "Wiec Smoków"
+  },
+  {
+    "filename": "Kasia%20Rafa.png",
+    "name": "Kasia Rafa",
+    "larp": "Larp Magicznie Szemrany"
+  },
+  {
+    "filename": "Daria%20Raczyńska.png",
+    "name": "Daria Raczyńska",
+    "larp": "Liberty"
+  },
+  {
+    "filename": "Rafał%20Cupiał.png",
+    "name": "Rafał Cupiał",
+    "larp": "Mat Głupca"
+  },
+  {
+    "filename": "Joanna%20Płaszewska.png",
+    "name": "Joanna Płaszewska",
+    "larp": "Jak rozmawiać z dziewczętami na prywatkach"
+  },
+  {
+    "filename": "Jakub%20Barański.png",
+    "name": "Jakub \"Shonsu\" Barański",
+    "larp": "Dolce Vita"
+  },
+  {
+    "filename": "Jakub%20Wasielak.png",
+    "name": "Jakub \"Gandi\" Wasielak",
+    "larp": "Pstryk"
+  },
+  {
+    "filename": "Michał%20Skerczyński.png",
+    "name": "Michał \"Eldarion\" Skerczyński",
+    "larp": "Pstryk"
+  },
+  {
+    "filename": "Julia%20Liszewska.png",
+    "name": "Julia \"Ponczo\" Liszewska",
+    "larp": "Pstryk"
   }
 ]

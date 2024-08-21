@@ -84,6 +84,8 @@ document.addEventListener("DOMContentLoaded", function() {
         .then(data => {
             const creators = document.getElementById('creators');
 
+            data = data.slice().sort(() => Math.random() - 0.5);
+
             data.forEach((creator, index) => {
                 const rowId = Math.floor(index / 4);
                 if (index % 4 === 0) {

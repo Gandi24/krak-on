@@ -20,6 +20,10 @@
     transition-duration: 0s;
 }
 
+.lgx-registration4 .lgx-inner {
+    padding: 13rem 0;
+}
+
 .lgx-single-registration-inner .icon {
     filter: invert(1);
 }
@@ -36,4 +40,9 @@
     max-width: 130px;
     display: block;
     margin: auto;
+}
+
+.lgx-schedule .lgx-inner {
+    background-size: cover;
+    background-position: top;
 }
