@@ -46,3 +46,11 @@
     background-size: cover;
     background-position: top;
 }
+
+.lgx-leftright-area .lgx-rules-img {
+  background: url('/assets/img/rules.jpg') bottom center repeat-x;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
