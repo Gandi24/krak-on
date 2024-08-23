@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+Disallow: /tmp/
+
+# Allow crawling of all other content
+Allow: /
+
+# Sitemap location
+Sitemap: https://krak-on.info/sitemap.xml
