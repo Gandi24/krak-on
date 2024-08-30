@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function() {
             const saturday1 = document.getElementById('scheduleSaturday1');
             const saturday2 = document.getElementById('scheduleSaturday2');
             const sunday1 = document.getElementById('scheduleSunday1');
-            const laury = document.getElementById('scheduleLaury');
 
             data.forEach(larp => {
                 const larpDiv = document.createElement('div');
@@ -25,11 +24,14 @@ document.addEventListener("DOMContentLoaded", function() {
                                    aria-controls="collapse${larp.key}">
                                     <div class="lgx-single-schedule">
                                         <div class="author">
-                                            <img src="assets/img/games/${larp.key}.png"
-                                                 alt="Speaker"/>
+                                            <div class="image-container">
+                                                <img src="assets/img/games/${larp.key}.png" alt="Larp image" class="main-image"/>
+                                                ${larp.laury ? `<img src="assets/img/laury-no-bg.png" alt="Laury" class="overlay-image"/>` : ''}
+                                             </div>
                                         </div>
                                         <div class="schedule-info">
                                             <h4 class="time">${larp.length}</h4>
+                                            <h4 class="players">gracze: ${larp.players}</h4>
                                             <h3 class="title">${larp.title}</h3>
                                             <h4 class="author-info">MG: <span>${larp.author}</span></h4>
                                         </div>
@@ -62,9 +64,6 @@ document.addEventListener("DOMContentLoaded", function() {
                         break;
                     case 'sunday1':
                         sunday1.appendChild(larpDiv);
-                        break;
-                    case 'laury':
-                        laury.appendChild(larpDiv);
                         break;
                     default:
                         console.error(`Invalid day: ${larp.day}`);

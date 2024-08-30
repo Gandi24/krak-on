@@ -54,3 +54,43 @@
   -moz-background-size: cover;
   background-size: cover;
 }
+
+.author {
+    position: relative; /* Ensure relative positioning to contain absolutely positioned children */
+}
+
+.image-container {
+    position: relative; /* This container will help position the overlay */
+    display: inline-block; /* Maintain the size of the container */
+}
+
+.main-image {
+    display: block; /* Ensure the main image behaves like a block element */
+    width: 100%; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+.overlay-image {
+    position: absolute;
+    top: 55px; /* Position at the top */
+    right: -8px; /* Position at the right */
+    width: 50px; /* Adjust the size of the overlay image as needed */
+    height: auto; /* Maintain aspect ratio */
+    pointer-events: none; /* Prevent the overlay image from interfering with user interactions */
+    background-color: black;
+}
+
+.lgx-panel .lgx-single-schedule .schedule-info .players {
+  background: rgba(75, 22, 255, 0.1);
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-size: 1.6rem;
+  line-height: 2.4000000000000004rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 0;
+  padding: .2rem 1rem;
+  margin-bottom: .5rem;
+  border-radius: 25px;
+}
