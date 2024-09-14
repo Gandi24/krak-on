@@ -30,8 +30,13 @@ document.addEventListener("DOMContentLoaded", function() {
                                              </div>
                                         </div>
                                         <div class="schedule-info">
-                                            <h4 class="time">${larp.length}</h4>
-                                            <h4 class="players">gracze: ${larp.players}</h4>
+                                            <div>
+                                                ${larp.tags ? larp.tags.map(tag => `<h4 class="tags">${tag}</h4>`).join(' ') : ''}
+                                            </div>
+                                            <div>
+                                                <h4 class="time">${larp.length}</h4>
+                                                <h4 class="players">gracze: ${larp.players}</h4>
+                                            </div>
                                             <h3 class="title">${larp.title}</h3>
                                             <h4 class="author-info">MG: <span>${larp.author}</span></h4>
                                         </div>
@@ -43,9 +48,16 @@ document.addEventListener("DOMContentLoaded", function() {
                              role="tabpanel"
                              aria-labelledby="heading${larp.key}">
                             <div class="panel-body">
-                                <p class="text">
+                                <section class="text">
                                     ${larp.description}
-                                </p>
+                                </section>
+                                <section>
+                                    ${larp.doc ? `<a href="${larp.doc}" target="_blank" class="btn btn-primary">Design Doc</a>` : ''}
+                                </section>
+                                <section>
+                                    ${larp.triggers ? `<h4 class="blank">Triggery:</h4>` : ''}
+                                    ${larp.triggers ? larp.triggers.map(trigger => `<h4 class="triggers">${trigger}</h4>`).join(' ') : ''}
+                                </section>
                                 <!-- <h4 class="location"><strong>Sala:</strong> 3 Kominkowa </h4>-->
                             </div>
                         </div>

@@ -94,3 +94,50 @@
   margin-bottom: .5rem;
   border-radius: 25px;
 }
+
+.lgx-panel .lgx-single-schedule .schedule-info .tags {
+  background: rgba(0, 0, 255, 0.1);
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-size: 1.6rem;
+  line-height: 2.4000000000000004rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 0;
+  padding: .2rem 1rem;
+  margin-bottom: .5rem;
+  border-radius: 25px;
+}
+
+.lgx-panel .triggers {
+  background: rgba(255, 0, 0, 0.1);
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-size: 1.6rem;
+  line-height: 2.4000000000000004rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 0;
+  padding: .2rem 1rem;
+  margin-bottom: .5rem;
+  border-radius: 25px;
+}
+
+.lgx-panel .blank {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-size: 1.6rem;
+  line-height: 2.4000000000000004rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 0;
+  padding: .2rem 1rem;
+  margin-bottom: .5rem;
+  border-radius: 25px;
+}
