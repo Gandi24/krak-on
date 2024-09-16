@@ -37,7 +37,7 @@
     "title": "Rewolucja: Długopisy i Karabiny",
     "author": "Maciej Bugalski",
     "slot": "sunday1",
-    "players": "11",
+    "players": "11 (6M, 5F)",
     "laury": true,
     "tags": ["rewolucja", "wojna", "prl"],
     "triggers": ["przemoc", "śmierć"],
