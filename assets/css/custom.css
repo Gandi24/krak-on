@@ -141,3 +141,11 @@
   margin-bottom: .5rem;
   border-radius: 25px;
 }
+
+.lgx-leftright-area .lgx-organisers-img {
+  background: url('/assets/img/organisers.png') center center no-repeat;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
