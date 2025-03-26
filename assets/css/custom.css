@@ -149,3 +149,11 @@
   -moz-background-size: cover;
   background-size: cover;
 }
+
+.lgx-leftright-area .lgx-swiaty-img {
+  background: url('/assets/img/swiaty.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}

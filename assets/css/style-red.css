@@ -11477,13 +11477,6 @@ blockquote.lgx-testi-single:before {
   -moz-background-size: cover;
   background-size: cover;
 }
-.lgx-leftright-area .lgx-hotel-img {
-  background: url('/assets/img/laury.jpg') center center no-repeat;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-}
 .lgx-travelinfo-christmas .lgx-inner {
   background: url('../img/ice-up-brand.png') bottom center repeat-x;
   -webkit-background-size: auto auto, cover;

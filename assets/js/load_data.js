@@ -26,7 +26,6 @@ document.addEventListener("DOMContentLoaded", function() {
                                         <div class="author">
                                             <div class="image-container">
                                                 <img src="assets/img/games/${larp.key}.png" alt="Larp image" class="main-image"/>
-                                                ${larp.laury ? `<img src="assets/img/laury-no-bg.png" alt="Laury" class="overlay-image"/>` : ''}
                                              </div>
                                         </div>
                                         <div class="schedule-info">
