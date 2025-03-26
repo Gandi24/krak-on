@@ -1,6 +1,6 @@
 // Load data from a JSON larps and display it on the page
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('assets/data/larps.json')
+    fetch('assets/data/larps250327.json')
         .then(response => response.json())
         .then(data => {
             const friday2 = document.getElementById('scheduleFriday2');
@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // Load data from a JSON larps and display it on the page
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('assets/data/creators.json')
+    fetch('assets/data/creators250327.json')
         .then(response => response.json())
         .then(data => {
             const creators = document.getElementById('creators');

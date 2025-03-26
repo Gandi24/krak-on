@@ -1,6 +1,6 @@
 // Load data from a JSON larps and display it on the page
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('assets/data/organisers.json')
+    fetch('assets/data/organisers250327.json')
         .then(response => response.json())
         .then(data => {
             data = data.slice().sort(() => Math.random() - 0.5);
