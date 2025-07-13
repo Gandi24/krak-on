@@ -3,48 +3,136 @@
     "filename": "Jakub%20Wasielak.png",
     "name": "Jakub \"Gandi\" Wasielak",
     "key": "jakub-wasielak",
-    "bio": "<div>Fan larpów oraz organizowania rzeczy. W Krak-ONie łączy swoje dwie pasje zajmując się pionem logistyki, stroną internetową oraz pilnowaniem ładu i porządku.</div>"
+    "team": "Koordynacja",
+    "role": "leader",
+    "bio": "<div>Fan larpów oraz organizowania rzeczy. W Krak-ONie łączy swoje dwie pasje zajmując się pionem koordynacji, stroną internetową oraz pilnowaniem ładu i porządku.</div>"
   },
   {
-    "filename": "Ala%20Kuchta.png",
-    "name": "Ala \"Buka\" Kuchta",
-    "key": "ala-kuchta",
-    "bio": "<div>Ala Buka Kuchta (zdjęcie z rudą peruką) Twórczyni larpów od kilku lat, gra od kilkunastu. Interesuje się sportem i wszystkim co nerdowskie. Używa gier jako narzędzia edukacyjnego a na co dzień pracuje w escape roomie i fundacji. Na Krak-Onie odpowiada za sociale i różne pożary.</div>"
+    "filename": "Mateusz%20Orzechowski.png",
+    "name": "Mateusz \"Orzech\" Orzechowski",
+    "key": "mateusz-orzechowski",
+    "team": "Koordynacja",
+    "role": "member",
+    "bio": "<div>Stary harcerz, który przerzucił się na larpy. Tak na prawdę to niewielka różnica.</div>"
   },
   {
-    "filename": "Roni%20Korycińska.png",
-    "name": "Roni \"Kaczka\" Korycińska",
-    "key": "roni-korycinska",
-    "bio": "<div>Roni Kaczka Korycińska Larpuje od wielu lat i prawie tyle tworzy. Designuje nowe larpowe rozwiązania i włącza do gier nowe technologie. Interesuje się książkami, aktorstwem i pracami ręcznymi. Na co dzień pracuje jako dyspozytor. Na Krak-Onie jest człowiekiem tabelką i odpowiada za stronę graficzną.</div>"
-  },
-  {
-    "filename": "Magda%20Czarnota.png",
-    "name": "Magda Czarnota",
-    "key": "magda-czarnota",
-    "bio": "<div>Człowiek od komunikacyjnej roboty. Larpuje od 12 lat i kocha to robić. Na Krak-Onie gasi pożary, łata dziury i spełnia życzenia.</div>"
+    "filename": "Zbyszek%20Andrzejewski.png",
+    "name": "Zbyszek Andrzejewski",
+    "key": "zbyszek-andrzejewski",
+    "team": "Koordynacja",
+    "role": "member",
+    "bio": "<div></div>"
   },
   {
     "filename": "Błażej%20Kardyś.png",
     "name": "Błażej Kardyś",
     "key": "blazej-kardys",
+    "team": "Logistyka",
+    "role": "leader",
     "bio": "<div>Błażej Kardyś, odpowiedzialny za część logistyczną Krak-ONu</div>"
   },
   {
     "filename": "Gosia%20Baranowska.png",
     "name": "Gosia Baranowska",
     "key": "gosia-baranowska",
+    "team": "Logistyka",
+    "role": "member",
     "bio": "<div>RPGówka, larpiarka, mangówka. Lubi kiszonki i oposy. Na Krak-ONie będzie wam załatwiać papier, krzesła i palmy.</div>"
+  },
+  {
+    "filename": "anonymous.png",
+    "name": "Monika \"Śnieżka\" Stefanowicz",
+    "key": "monika-stefanowicz",
+    "team": "Logistyka",
+    "role": "member",
+    "bio": "<div></div>"
+  },
+  {
+    "filename": "anonymous.png",
+    "name": "Agnieszka \"Audre\" Filipiak",
+    "key": "agnieszka-filipiak",
+    "team": "Logistyka",
+    "role": "member",
+    "bio": "<div></div>"
+  },
+  {
+    "filename": "Magda%20Czarnota.png",
+    "name": "Magda Czarnota",
+    "key": "magda-czarnota",
+    "team": "Komunikacja",
+    "role": "leader",
+    "bio": "<div>Człowiek od komunikacyjnej roboty. Larpuje od 13 lat i kocha to robić. Na Krak-ONie odpisuje na maile, odbiera telefony i pomaga w socialach. Poza tym gasi pożary, łata dziury i spełnia życzenia. Ale tylko trzy!</div>"
+  },
+  {
+    "filename": "Beata%20Subczak.png",
+    "name": "Beata Subczak",
+    "key": "beata-subczak",
+    "team": "Komunikacja",
+    "role": "member",
+    "bio": "<div></div>"
+  },
+  {
+    "filename": "anonymous.png",
+    "name": "Michał \"Onti\" Jeniec",
+    "key": "michal-jeniec",
+    "team": "Grafiki",
+    "role": "leader",
+    "bio": "<div></div>"
   },
   {
     "filename": "Andrzej%20Pajdziński.png",
     "name": "Andrzej Pajdziński",
     "key": "anndrzej-pajdzinski",
-    "bio": "<div>Fan larpów, lubi pomagać, organizować a czasem nawet tworzyć jeepformy. Na Krak-Onie będzie wspierał Kubę i koordynował działania związanymi z opieką nad larpami. Prywatnie na co dzień wspiera zespół w zawirowaniach korpo, w wolnych czasach robi zdjęcia pudełkiem.</div>"
+    "team": "Opiekunowie",
+    "role": "leader",
+    "bio": "<div>Fan larpów, lubi pomagać, organizować a czasem nawet tworzyć jeepformy. Na Krak-Onie będzie koordynował zadania związane z opieką nad larpami oraz komunikację z MG. Prywatnie na co dzień wspiera zespół w zawirowaniach korpo, w wolnych czasach robi zdjęcia pudełkiem.</div>"
+  },
+  {
+    "filename": "anonymous.png",
+    "name": "Magda Głąb",
+    "key": "magda-glab",
+    "team": "Opiekunowie",
+    "role": "member",
+    "bio": "<div></div>"
+  },
+  {
+    "filename": "Ala%20Kuchta.png",
+    "name": "Ala \"Buka\" Kuchta",
+    "key": "ala-kuchta",
+    "team": "honorable",
+    "role": "",
+    "bio": "<div></div>"
+  },
+  {
+    "filename": "Roni%20Korycińska.png",
+    "name": "Roni \"Kaczka\" Korycińska",
+    "key": "roni-korycinska",
+    "team": "honorable",
+    "role": "",
+    "bio": "<div></div>"
   },
   {
     "filename": "Kuba%20Jamrozik.png",
     "name": "Kuba \"Luigi\" Jamrozik",
     "key": "kuba-jamrozik",
-    "bio": "<div>W latach 90 działał w Krakowskim Klubie Fantastyki wraz z którym organizował Konwent Fantastyki Krakon oraz brał udział w Konwencie Larpów Terenowych Orkon, który odbywa się do dnia dzisiejszego. Po dłuższej przerwie na nowo rozpoczął swoją przygodę z larpami, a od 2017 do 2024 brał udział w około kilkuset grach. Współtworzył w tym czasie kilka larpów, współorganizował Portal 10 LARP conference, Krak-On 2023 i organizuje Kolę 2024. Znany z pogody ducha i życzliwości. Prywatnie ojciec 2 nastoletnich dzieci. Pracuje jako kierownik sprzedaży usług ICT w Play.</div>"
+    "team": "honorable",
+    "role": "",
+    "bio": ""
+  },
+  {
+    "filename": "Ala%20Babińska.png",
+    "name": "Ala Babińska",
+    "key": "ala-babinska",
+    "team": "honorable",
+    "role": "",
+    "bio": "<div></div>"
+  },
+  {
+    "filename": "Zbyszek%20Janczukowicz.png",
+    "name": "Zbyszek Janczukowicz",
+    "key": "zbyszek-janczukowicz",
+    "team": "honorable",
+    "role": "",
+    "bio": "<div></div>"
   }
 ]

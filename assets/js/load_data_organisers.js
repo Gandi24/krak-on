@@ -1,65 +1,94 @@
-// Load data from a JSON larps and display it on the page
 document.addEventListener("DOMContentLoaded", function() {
     fetch('assets/data/organisers250327.json')
         .then(response => response.json())
         .then(data => {
-            data = data.slice().sort(() => Math.random() - 0.5);
-
             const creators = document.getElementById('organisers');
             const creatorsBio = document.getElementById('organisers-content');
 
-            data.forEach((creator, index) => {
-                const rowId = Math.floor(index / 4);
-                if (index % 4 === 0) {
-                    const creatorRow = document.createElement('div');
-                    creatorRow.classList.add(`row`);
-                    creatorRow.classList.add(`row-${rowId}`);
-                    creators.appendChild(creatorRow);
+            // Group members by team name
+            const teamsMap = new Map();
+
+            data.forEach(member => {
+                if (!teamsMap.has(member.team)) {
+                    teamsMap.set(member.team, { leader: null, members: [] });
+                }
+                const teamGroup = teamsMap.get(member.team);
+                if (member.role === 'leader') {
+                    teamGroup.leader = member;
+                } else {
+                    teamGroup.members.push(member);
+                }
+            });
+
+            // Render each team with leader + members
+            teamsMap.forEach((group, teamName) => {
+                if (teamName === 'honorable') {
+                    teamName = 'Honorable mentions<br>(to oni tworzyli z nami poprzednie Krak-ONy i dołożyli dużą cegiełkę do obecnego kształtu festiwalu)';
                 }
 
-                const row = creators.querySelector(`.row-${rowId}`);
+                // Team title
+                const titleBar = document.createElement('div');
+                titleBar.classList.add('team-title-bar');
+                titleBar.innerHTML = `<h2>${teamName}</h2>`;
+                creators.appendChild(titleBar);
 
-                const creatorDiv = document.createElement('div');
-                creatorDiv.classList.add('col-xs-12');
-                creatorDiv.classList.add('col-sm-6');
-                creatorDiv.classList.add('col-md-3');
+                // Create rows of max 4 members
+                const membersAll = [];
 
-                creatorDiv.innerHTML = `
+                if (group.leader) membersAll.push(group.leader);
+                membersAll.push(...group.members);
+
+                // Create rows, max 4 per row
+                for (let i = 0; i < membersAll.length; i += 4) {
+                    const row = document.createElement('div');
+                    row.classList.add('row');
+                    const slice = membersAll.slice(i, i + 4);
+
+                    slice.forEach(member => {
+                        const memberDiv = createMemberDiv(member);
+                        row.appendChild(memberDiv);
+                    });
+
+                    creators.appendChild(row);
+                }
+            });
+
+            // Render bios below
+            data.forEach(member => {
+                const bioDiv = document.createElement('div');
+                bioDiv.classList.add('row');
+                bioDiv.id = member.key;
+                bioDiv.innerHTML = `
+                    <div class="col-lg-3">
+                        <figure><img src="/assets/img/people/${member.filename}" alt="${member.name}"></figure>
+                    </div>
+                    <div class="col-lg-9">
+                        <h2>${member.name}</h2>
+                        <p>${member.bio}</p>
+                    </div>
+                `;
+                creatorsBio.appendChild(bioDiv);
+            });
+
+            function createMemberDiv(member) {
+                const div = document.createElement('div');
+                div.classList.add('col-xs-12', 'col-sm-6', 'col-md-3');
+                div.innerHTML = `
                     <div class="lgx-single-speaker2 lgx-single-speaker3">
                         <figure>
-                            <a class="profile-img" href="#${creator.key}"><img
-                                    src="/assets/img/people/${creator.filename}"
-                                    alt="Judge"/></a>
+                            <a class="profile-img" href="#${member.key}">
+                                <img src="/assets/img/people/${member.filename}" alt="${member.name}"/>
+                            </a>
                             <figcaption>
                                 <div class="speaker-info">
-                                    <h3 class="title"><a>${creator.name}</a></h3>
+                                    <h3 class="title"><a>${member.role === 'leader' ? '⭐ ' : ''}${member.name}</a></h3>
                                 </div>
                             </figcaption>
                         </figure>
                     </div>
                 `;
-
-                row.appendChild(creatorDiv);
-
-                const creatorBioDiv = document.createElement('div');
-
-                creatorBioDiv.innerHTML = `
-                    <div class="row" id=${creator.key}>
-                        <div class="col-lg-3">
-                            <figure>
-                                <img src="/assets/img/people/${creator.filename}" alt="Judge">
-                            </figure>
-                        </div>
-                        <div class="col-lg-9">
-                            <h2>${creator.name}</h2>
-                            <p>${creator.bio}</p>
-                        </div>
-                    </div>
-                `;
-
-                creatorsBio.appendChild(creatorBioDiv);
-
-            });
+                return div;
+            }
         })
         .catch(error => {
             console.error('Error fetching data:', error);
