@@ -72,6 +72,14 @@
     "bio": "<div></div>"
   },
   {
+    "filename": "Karolina%20Kociołek.png",
+    "name": "Karolina Kociołek",
+    "key": "karolina-kociolek",
+    "team": "Komunikacja",
+    "role": "member",
+    "bio": "<div>Jako dziecko marzyła, żeby być elfem, teraz bliżej jej do hobbita - chyba, że pominie jakiś posiłek, wtedy zamienia się w orka (ale nie z Majorki). Lubi dużo mówić, a jak nie mówi, to pewnie pisze posta, którego zaraz wrzuci w social media.</div>"
+  },
+  {
     "filename": "anonymous.png",
     "name": "Michał \"Onti\" Jeniec",
     "key": "michal-jeniec",
@@ -112,6 +120,14 @@
     "bio": "<div></div>"
   },
   {
+    "filename": "Piotr%20Więckowski.png",
+    "name": "Piotr Więckowski",
+    "key": "piotr-wieckowski",
+    "team": "honorable",
+    "role": "",
+    "bio": "<div></div>"
+  },
+  {
     "filename": "Kuba%20Jamrozik.png",
     "name": "Kuba \"Luigi\" Jamrozik",
     "key": "kuba-jamrozik",
@@ -131,6 +147,22 @@
     "filename": "Zbyszek%20Janczukowicz.png",
     "name": "Zbyszek Janczukowicz",
     "key": "zbyszek-janczukowicz",
+    "team": "honorable",
+    "role": "",
+    "bio": "<div></div>"
+  },
+  {
+    "filename": "Mateusz%20Koss.png",
+    "name": "Mateusz Koss",
+    "key": "mateusz-koss",
+    "team": "honorable",
+    "role": "",
+    "bio": "<div></div>"
+  },
+  {
+    "filename": "Mateusz%20Koss.png",
+    "name": "Mateusz Koss",
+    "key": "mateusz-koss",
     "team": "honorable",
     "role": "",
     "bio": "<div></div>"
