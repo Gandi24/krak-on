@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('assets/data/organisers250327.json')
+    fetch('assets/data/organisers250826.json')
         .then(response => response.json())
         .then(data => {
             const creators = document.getElementById('organisers');
