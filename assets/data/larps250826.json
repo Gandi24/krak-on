@@ -1,5 +1,17 @@
 [
   {
+    "key": "zaczarowani_saga",
+    "length": "5 godzin",
+    "title": "Zaczarowani: Saga (start 17:00)",
+    "author": "Artur Biesiadowski, Emilia Stachurska",
+    "slot": "friday2",
+    "players": "26; unisex",
+    "doc": "https://drive.google.com/file/d/1qaxF-OmTj0eoyqwyZ5A8pkYwpdCJiX4C/view",
+    "triggers": ["głośna muzyka", "wysiłek", "bliskość fizyczna"],
+    "tags": ["taniec", "uwodzenie", "zmysły"],
+    "description": "<div>Niemy, ruchowy larp, którego głównym środkiem wyrazu jest taniec. Opowiada o losach Ludzi wyrwanych z szarej codzienności i Podziemców, których wieczny żywot nagle nabiera barw. To gra o delikatnym balansie między wartościami a pokusą; o uwodzeniu i zatraceniu, a także o skomplikowanych relacjach, o marzeniach, o władzy, o zmieniających się priorytetach i wewnętrznym rozdarciu.<br/><br/>Warstwa fabularna w tej grze jest nieoczywista i aby przeżyć ciekawą historię, gracz musi zaangażować wyobraźnię, a do tego sięgnąć po metody ekspresji inne niż słowa czy wokalizacje. Przed rozpoczęciem odbędą się długie warsztaty, podczas których uczestnicy nauczą się podstaw prowadzenia i podążania w tańcu improwizowanym, stworzą relacje między postaciami i zapoznają się z przebiegiem gry. Istotną częścią będzie szczegółowy segment dotyczący bezpieczeństwa, aby zapewnić wszystkim komfortową grę w tym emocjonalnie intensywnym, intymnym wydarzeniu.<br/><br/>To jest gra dla Ciebie, jeśli masz bogatą wyobraźnię i lubisz ruszać się do klimatycznej muzyki – nie jest wymagana znajomość konkretnego stylu tańca. Przyda się otwartość na nowe formy i doświadczenia, a także chęć odgrywania i przeżywania mocnych emocji. Larp jest regrywalny, zapraszamy również tych, którzy grali już w tę lub podobne gry.<br/><br/>To nie jest gra dla Ciebie, jeśli masz ograniczenia ruchowe, poważne kontuzje lub szybko przebodźcowujesz się głośną muzyką. Warto też zwrócić uwagę, że istotną częścią gry jest bliskość fizyczna.<br/><br/>„Zaczarowani: Saga” to nowa wersja najpopularniejszego larpu w Polsce, z przeredagowaną narracją, zmodyfikowaną strukturą, innym zestawem archetypów postaci i zmienionymi warsztatami, dostosowanymi do stylu gry wypracowanego na poprzednich paruset edycjach. Opiera się na grze „Spellbound” duńskiego duetu: Marii i Jeppe Bergmann Hammingów oraz jej adaptacji spolonizowanej przez Andrzeja Pierzchałę; aranżacja w formule plug&play jest zainspirowana grą „Zaklęci” autorstwa Rafała “Mefiego” Matraszka.</div>"
+  },
+  {
     "key": "family_dinner_en",
     "length": "4 godziny",
     "title": "Family Dinner [EN]",
@@ -12,7 +24,7 @@
   },
   {
     "key": "spotkanie",
-    "length": "4–5 godzin (wstępnie)",
+    "length": "4–5 godzin",
     "title": "Spotkanie",
     "author": "Przemysław „Przem” Głomb",
     "slot": "friday2",
@@ -132,18 +144,6 @@
     "triggers": ["gra ruchowa", "dotyk i bliskość fizyczna (również w kontekście erotycznym)", "zmieniające się światło", "zmieniająca się muzyka", "tematyka owadów (na grze nie pojawiają się prawdziwe owady ale ich symboliczne reprezentacje)", "motyw wykluczenia", "wykorzystanie miodu jako rekwizytu (możliwość pobrudzenia osób grających)", "przykrywanie się płachtami folii"],
     "tags": ["pszczoły", "gra ruchowa", "group mind", "gra ekologiczna", "czarne ciuchy"],
     "description": "<div>“Rój\" to sensualne, ruchowe doświadczenie wspólnoty, gdzie \"ja\" rozmywa się w \"my\". Aktowa gra ekologiczna, która zostawi uczestników z szerszą wiedzą o pszczołach i zaprosi do post-refleksji nad napięciami między jednostką a wspólnotowością. Gracze wcielają się symbolicznie w pszczoły i korzystając ze wspólnego doświadczenia ruchu i dotyku, opowiadają historię działającego ula. Sceny wynikają w następstwie ich wyborów./div>"
-  },
-  {
-    "key": "zaczarowani_saga",
-    "length": "5 godzin (preferowane 5.5)",
-    "title": "Zaczarowani: Saga",
-    "author": "Artur Biesiadowski, Emilia Stachurska",
-    "slot": "friday2",
-    "players": "26; unisex",
-    "doc": "https://drive.google.com/file/d/1qaxF-OmTj0eoyqwyZ5A8pkYwpdCJiX4C/view",
-    "triggers": ["głośna muzyka", "wysiłek", "bliskość fizyczna"],
-    "tags": ["taniec", "uwodzenie", "zmysły"],
-    "description": "<div>Niemy, ruchowy larp, którego głównym środkiem wyrazu jest taniec. Opowiada o losach Ludzi wyrwanych z szarej codzienności i Podziemców, których wieczny żywot nagle nabiera barw. To gra o delikatnym balansie między wartościami a pokusą; o uwodzeniu i zatraceniu, a także o skomplikowanych relacjach, o marzeniach, o władzy, o zmieniających się priorytetach i wewnętrznym rozdarciu.<br/><br/>Warstwa fabularna w tej grze jest nieoczywista i aby przeżyć ciekawą historię, gracz musi zaangażować wyobraźnię, a do tego sięgnąć po metody ekspresji inne niż słowa czy wokalizacje. Przed rozpoczęciem odbędą się długie warsztaty, podczas których uczestnicy nauczą się podstaw prowadzenia i podążania w tańcu improwizowanym, stworzą relacje między postaciami i zapoznają się z przebiegiem gry. Istotną częścią będzie szczegółowy segment dotyczący bezpieczeństwa, aby zapewnić wszystkim komfortową grę w tym emocjonalnie intensywnym, intymnym wydarzeniu.<br/><br/>To jest gra dla Ciebie, jeśli masz bogatą wyobraźnię i lubisz ruszać się do klimatycznej muzyki – nie jest wymagana znajomość konkretnego stylu tańca. Przyda się otwartość na nowe formy i doświadczenia, a także chęć odgrywania i przeżywania mocnych emocji. Larp jest regrywalny, zapraszamy również tych, którzy grali już w tę lub podobne gry.<br/><br/>To nie jest gra dla Ciebie, jeśli masz ograniczenia ruchowe, poważne kontuzje lub szybko przebodźcowujesz się głośną muzyką. Warto też zwrócić uwagę, że istotną częścią gry jest bliskość fizyczna.<br/><br/>„Zaczarowani: Saga” to nowa wersja najpopularniejszego larpu w Polsce, z przeredagowaną narracją, zmodyfikowaną strukturą, innym zestawem archetypów postaci i zmienionymi warsztatami, dostosowanymi do stylu gry wypracowanego na poprzednich paruset edycjach. Opiera się na grze „Spellbound” duńskiego duetu: Marii i Jeppe Bergmann Hammingów oraz jej adaptacji spolonizowanej przez Andrzeja Pierzchałę; aranżacja w formule plug&play jest zainspirowana grą „Zaklęci” autorstwa Rafała “Mefiego” Matraszka.</div>"
   },
   {
     "key": "przepowiednia_i_krew",
