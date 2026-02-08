@@ -1,11 +1,19 @@
 [
   {
+    "filename": "Beata%20Subczak.png",
+    "name": "Beata Subczak",
+    "key": "beata-subczak",
+    "team": "Koordynacja",
+    "role": "leader",
+    "bio": "<div>Pionorg w dziale Koordynacji. Od początku w organizacji Krak-ONu. Larpuje od 2019. Zagrała w duuużo larpów obecnie skupia się bardziej na ich tworzeniu także dla instytucji. Lubi robić coś z niczego i udawać czajnik.</div>"
+  },
+  {
     "filename": "Jakub%20Wasielak.png",
     "name": "Jakub \"Gandi\" Wasielak",
     "key": "jakub-wasielak",
     "team": "Koordynacja",
-    "role": "leader",
-    "bio": "<div>Fan larpów oraz organizowania rzeczy. W Krak-ONie łączy swoje dwie pasje zajmując się pionem koordynacji, stroną internetową oraz pilnowaniem ładu i porządku.</div>"
+    "role": "member",
+    "bio": "<div>Fan larpów oraz organizowania rzeczy. W Krak-ONie łączy swoje dwie pasje pracując w pionie koordynacji, stroną internetową oraz pilnowaniem ładu i porządku.</div>"
   },
   {
     "filename": "Mateusz%20Orzechowski.png",
@@ -56,27 +64,11 @@
     "bio": "<div>Człowiek od komunikacyjnej roboty. Larpuje od 13 lat i kocha to robić. Na Krak-ONie odpisuje na maile, odbiera telefony i pomaga w socialach. Poza tym gasi pożary, łata dziury i spełnia życzenia. Ale tylko trzy!</div>"
   },
   {
-    "filename": "Beata%20Subczak.png",
-    "name": "Beata Subczak",
-    "key": "beata-subczak",
-    "team": "Komunikacja",
-    "role": "member",
-    "bio": "<div>Pionierka w dziale Komunikacja. Od początku w organizacji Krak-ONu. Larpuje od 2019. Zagrała w duuużo larpów obecnie skupia się bardziej na ich tworzeniu także dla instytucji. Lubi robić coś z niczego i udawać czajnik.</div>"
-  },
-  {
-    "filename": "Karolina%20Kociołek.png",
-    "name": "Karolina Kociołek",
-    "key": "karolina-kociolek",
-    "team": "Komunikacja",
-    "role": "member",
-    "bio": "<div>Jako dziecko marzyła, żeby być elfem, teraz bliżej jej do hobbita - chyba, że pominie jakiś posiłek, wtedy zamienia się w orka (ale nie z Majorki). Lubi dużo mówić, a jak nie mówi, to pewnie pisze posta, którego zaraz wrzuci w social media.</div>"
-  },
-  {
     "filename": "Michał%20Jeniec.png",
     "name": "Michał \"Onti\" Jeniec",
     "key": "michal-jeniec",
-    "team": "Grafiki",
-    "role": "leader",
+    "team": "Komunikacja",
+    "role": "member",
     "bio": "<div>Kula nieskończonej energii, z milionem pomysłów i czynności wykonywanych na sekundę. W sumie to bardziej rpgowiec, ale podejmie się wszystkiego co wygląda na ciekawe.</div>"
   },
   {
