@@ -9338,6 +9338,9 @@ lgx-zoomInUp
   .lgx-panel .lgx-single-schedule {
     padding: 2rem 0;
   }
+  .lgx-panel .panel-body {
+    margin-left: 0;
+  }
   .lgx-panel .lgx-single-schedule .author img {
     max-height: 80px;
   }
