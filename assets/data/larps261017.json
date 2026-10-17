@@ -311,30 +311,32 @@
     "description": "<div>Voyager 3 to opowieść o locie statku-kolonii do systemu Trappist-1. Gracze wcielają się w role oficerów statku, decydują o przebiegu eksploracji systemu i na koniec o miejscu lądowania. Od ich wyborów zależy los ich oraz setek kolonistów uśpionych w hibernatorach. Opowieść o odkrywcach, prowadzących ekspedycję w nieznane - tym razem w kosmosie, przepleciona historiami ludzi, którzy w niej uczestniczą.<br/><br/>(To jest - będzie - nieco zmieniona wersja gry, która poszła na Festiwalu SF w Warszawie w styczniu 2026, a wcześniej na Larparcie i BB3C)</div>"
   },
   {
-    "key": "lawnicy",
-    "length": "2-3 godziny",
-    "title": "Ławnicy",
-    "author": "Jakub Szafraniec, Katarzyna Kosiorowska (Koło Naukowe LARP AGH)",
+    "key": "dylemat_wieznia",
+    "length": "4 godziny",
+    "title": "Dylemat Więźnia",
+    "author": "Ala Babińska, Katarzyna Kosiorowska (Koło Naukowe LARP AGH)",
     "slot": "saturday2",
-    "players": "10 (2k, 5m, 3u)",
+    "players": "8",
+    "doc": "https://drive.google.com/file/d/16jeCr9SnJ2-55JFqsKkuF5t36-0u3b7U/view",
     "triggers": [
-      "śmierć",
-      "morderstwo/zabójstwo",
-      "gore",
-      "narkotyki/używki",
-      "papierosy",
-      "alkohol/alkoholizm",
-      "dramaty rodzinne",
-      "rasizm/dyskryminacja"
+      "więzienie",
+      "polityka (autorytaryzm, totalitaryzm)",
+      "prześladowanie",
+      "konflikty interpersonalne",
+      "kłamstwo, oszustwo i zdrada",
+      "niewiedza",
+      "bezsilność",
+      "dla niektórych postaci: alkoholizm, dramaty rodzinne"
     ],
     "tags": [
-      "dramat",
-      "morderstwo",
-      "murder mystery",
-      "PRL",
-      "12 angry men"
+      "teoria gier",
+      "intryga",
+      "zdrada",
+      "niepełna wiedza",
+      "lata 70.",
+      "zimna woda"
     ],
-    "description": "<div>Sprawa morderstwa młodego chłopaka na Nowej Hucie zmierza ku końcowi, gdy dziesięć osób zostaje wezwanych jako ławnicy do sądu, aby zaważyć o losie oskarżonych.<br/><br/>\"Ławnicy\" to larp w klimacie \"murder mystery\" inspirowany filmem \"12 gniewnych ludzi\" (\"12 angry men\", 1957), osadzony w czasach PRL, w roku 1982. Jest to gra nastawiona na zgłębianie dowodów, odkrywanie zagadki i dojście do porozumienia z osobami obcymi i o odmiennych przekonaniach.</div>"
+    "description": "<div>Larp oparty o tytułowy problem w teorii gier, osadzony w klimacie lat 70. w fikcyjnym, autorytarnym, kafkowskim państwie. Gracze wcielają się w grupę 8 aresztowanych, którzy muszą spiskować przeciwko sobie i donosić, żeby ugrać sobie lepszą pozycję, lub pogorszyć pozycję innych. Konsekwencje każdego wyboru dotyczą każdego gracza.<br/><br/>Na grę rekomendowane są stroje w klimacie PRL.<br/><br/>W ramach udziału w grze możliwe będzie wzięcie udziału w badaniu naukowym. Szczegółowe informacje znajdują się w dokumencie projektowym.</div>"
   },
   {
     "key": "heptameron",
